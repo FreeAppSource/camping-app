@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Camping App",
+    "slug": "camping-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2C5E3B"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "campingapp"
+  }
+}
