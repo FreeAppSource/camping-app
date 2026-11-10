@@ -1,5 +1,7 @@
 # Camping App
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Faiz Anwar** (credits below)
+
 A comprehensive mobile application designed for outdoor enthusiasts, hikers, and campers to organize trips, tasks, gear inventory, and memories together. Built strictly with **pure JavaScript & JSX (`.js`, `.jsx`)**, React Native 0.88, Expo SDK 58, and Expo Router, based on the Sketch UI Kit (`camping-ui-kit-faiz-anwar.sketch`).
 
 ---
@@ -71,17 +73,32 @@ Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or sc
 
 <!-- run-locally:end -->
 
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/camping-app> |
+
+<!-- developer:end -->
+
 ---
 
 <!-- design-credits:start -->
 
 ## 🎨 Design Credits
 
-This app is based on the free **Camping UI Kit** design by **Faiz  Anwar**, downloaded from Sketch App Sources. All visual design credit goes to the designer. It follows the design's screens, user flows and content; visual details (exact spacing, fonts, some colours and illustrations) are approximated and may differ from the original.
+This app is based on the free **Camping UI Kit** design by **Faiz Anwar**, downloaded from Sketch App Sources. All visual design credit goes to the designer. It follows the design's screens, user flows and content; visual details (exact spacing, fonts, some colours and illustrations) are approximated and may differ from the original.
 
 | | |
 |---|---|
-| Designer | [Faiz  Anwar](https://www.sketchappsources.com/contributor/faizanwar) |
+| Designer | [Faiz Anwar](https://www.sketchappsources.com/contributor/faizanwar) |
 | Original design | [Camping UI Kit](https://dribbble.com/shots/15138787-Camping-App-UI-Kit-Screens) |
 | Downloaded from | [Sketch App Sources](https://www.sketchappsources.com/free-source/4745-camping-ui-kit-sketch-freebie-resource.html) |
 | Dribbble | <http://www.dribbble.com/faizz_anwar> |
@@ -92,7 +109,7 @@ This app is based on the free **Camping UI Kit** design by **Faiz  Anwar**, down
 
 **Attribution:**
 
-> UI design: "Camping UI Kit" by Faiz  Anwar (https://dribbble.com/shots/15138787-Camping-App-UI-Kit-Screens), downloaded from Sketch App Sources (https://www.sketchappsources.com/free-source/4745-camping-ui-kit-sketch-freebie-resource.html).
+> UI design: "Camping UI Kit" by Faiz Anwar (https://dribbble.com/shots/15138787-Camping-App-UI-Kit-Screens), downloaded from Sketch App Sources (https://www.sketchappsources.com/free-source/4745-camping-ui-kit-sketch-freebie-resource.html).
 
 The original design source files are not included in this repository; get them from the links above. This app's **code** is released under the [MIT License](./LICENSE); the visual design remains the designer's (see [NOTICE](./NOTICE)).
 
